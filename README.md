@@ -11,7 +11,7 @@ https://github.com/uncbiag/SimpleClick
 https://github.com/warmrid233/dune_seg_model
 
 ## 演示
-<video controls src="沙丘分割演示.mp4" title="Title"></video>
+<video controls src="demo_video.mp4" title="Title"></video>
 
 ## 目录
 - [项目概述](#项目概述)
