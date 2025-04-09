@@ -11,6 +11,7 @@ https://github.com/uncbiag/SimpleClick
 https://github.com/warmrid233/dune_seg_model
 
 ## 演示
+下载demo_video.mp4和README.md到本地即可观看演示视频
 <video controls src="demo_video.mp4" title="Title"></video>
 
 ## 目录
